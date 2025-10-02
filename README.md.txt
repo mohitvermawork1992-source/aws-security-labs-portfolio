@@ -8,5 +8,3 @@
 
 ## Evidence
 Screenshots stored in `/screenshots` folder.
-
-✅ Designed and implemented IAM least privilege model with MFA for AWS accounts.
